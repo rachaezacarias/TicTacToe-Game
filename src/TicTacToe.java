@@ -12,3 +12,4 @@ public class TicTacToe {
 }
 
 TEST
+// TODO: Add colored output for X and O
